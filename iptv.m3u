@@ -339,3 +339,7 @@ http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1,Italy: Videostar TV (Lombardia)
 http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
+#EXTINF:-1,IT:Mediaset Iris
+http://c2.tvboxgroup.com:8880/ice6m20/wEXc52V3aE/2744
+#EXTINF:-1,IT:Iris HD
+http://c2.tvboxgroup.com:8880/ice6m20/wEXc52V3aE/28362
