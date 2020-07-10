@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Italy: TV2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1,IT2: CANALE 5 FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/15465
-#EXTINF:-1,IT2: CANALE 5 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/15464
 #EXTINF:-1,IT2: IRIS
-https://www.mediasetplay.mediaset.it/a63db2a8-f9d9-4342-a3ab-99de34e47b90
-#EXTINF:-1,MT: TVM 1
-https://live.23video.com/live/amlst:mkhhi5j0u61fih4mn368171g7a:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b2128000.m3u8
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
