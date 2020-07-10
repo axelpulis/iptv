@@ -6,6 +6,6 @@ http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/15465
 #EXTINF:-1,IT2: CANALE 5 HD
 http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/15464
 #EXTINF:-1,IT2: IRIS
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/15434
+rtp://239.186.64.75:10000 
 #EXTINF:-1,MT: TVM 1
 https://live.23video.com/live/amlst:mkhhi5j0u61fih4mn368171g7a:16966825-2ca040dbfeea9e5cb868.mp4/chunklist_b2128000.m3u8
