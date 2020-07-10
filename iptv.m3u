@@ -5,13 +5,13 @@ http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/canale5.png?raw=true", IT | CANALE 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/tvm.png?raw=true", TVM
+#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/tvm.png?raw=true",MT | TVM
 http://s3.smashmalta.com:82/live/smash/smash/39.ts
-#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/tvm2.png?raw=true", TVM 2
+#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/tvm2.png?raw=true",MT | TVM 2
 http://s3.smashmalta.com:82/live/smash/smash/40.ts
-#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/one.png?raw=true", One
+#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/one.png?raw=true",MT | One
 http://s3.smashmalta.com:82/live/smash/smash/33.ts
-#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/net.png?raw=true", Net
+#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/net.png?raw=true",MT | Net
 http://s3.smashmalta.com:82/live/smash/smash/34.ts
-#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/smash.png?raw=true", Smash TV
+#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/smash.png?raw=true",MT | Smash TV
 http://s3.smashmalta.com:82/live/smash/smash/5.ts
