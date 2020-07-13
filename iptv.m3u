@@ -15,3 +15,5 @@ http://s3.smashmalta.com:82/live/smash/smash/33.ts
 http://s3.smashmalta.com:82/live/smash/smash/34.ts
 #EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/smash.png?raw=true",MT | Smash TV
 http://s3.smashmalta.com:82/live/smash/smash/5.ts
+#EXTINF:-1 tvg-logo="https://github.com/axelpulis/iptv/blob/master/extra.png?raw=true",IT | MEDIASET EXTRA
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
